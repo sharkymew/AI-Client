@@ -1,3 +1,7 @@
+# AI-Client
+# Copyright (C) 2025 SharkyMew
+# Licensed under the GNU AGPL v3 or later.
+
 import time
 import random
 import threading
