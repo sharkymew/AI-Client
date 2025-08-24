@@ -7,3 +7,10 @@
 /pyproject.toml
 /main.py
 .DS_Store
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.gitignore
+.idea/VTuber.iml
+.idea/dictionaries/project.xml
+.idea/inspectionProfiles/profiles_settings.xml
